@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Henryk07
+- 👋 Hi, I’m @Henryk07 Henryk(Haolin Chen) 陈浩霖 He/Him
 - 👀 I’m interested in AI, Machine Learning, BioRobotics and Bio-neurosciense
 - 🌱 I’m currently learning Mechatronic Engineering and Robotics
 - 💞️ I’m looking to collaborate on BioRobotics
