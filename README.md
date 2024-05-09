@@ -11,6 +11,6 @@ You can click the Preview link to take a look at your changes.
 
 <details>
   <summary>:zap: Github Stats</summary>
-  <img align ="left" alt="Henryk Chan's Github Stats" src="https://gitstats.henrykchan.com/api?username=henryk07&theme=dark&show_icons=true"/> 
+  <img align ="left" alt="Henryk Chan's Github Stats" src="https://gitstats.henrykchan.com/api?username=henryk07&theme=great-gatsby&show_icons=true"/> 
 
   </details>
